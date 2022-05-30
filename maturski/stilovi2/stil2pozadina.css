@@ -1,0 +1,20 @@
+body
+{
+	background-image: url("gitara.jpg");
+	background-repeat: no-repeat;
+	background-position: center;
+	background-attachment: fixed;
+	background-color: black;
+	background-size: cover;
+	margin-left: 100px;
+	margin-right: 100px;
+}
+
+.pozadina
+{
+    background-color: rgba(30, 95, 116, 0.5);
+
+    margin: 50px;
+
+    padding: 25px;
+}

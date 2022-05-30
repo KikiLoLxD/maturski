@@ -1,0 +1,100 @@
+.meni
+{
+    background-color: #1e5f74;
+    width: auto;
+
+    padding: 20px;
+}
+
+#homeb
+{
+    width: auto;
+    height: auto;
+    background-color: white;
+
+    border: 3px solid #133b5c;
+    margin: auto;
+
+    transition: 0.5s;
+    cursor: pointer;
+}
+
+.active, #homeb:hover
+{
+    border: 3px dashed #133b5c;
+}
+
+#homeimg
+{
+    width: 50px;
+}
+
+#panel1, #panel2, #panel3
+{
+    display: none;
+    
+    width: 90%;
+    height: auto;
+
+    background-color: #133b5c;
+
+    margin: auto;
+    margin-bottom: 20px;
+
+    padding: 10px;
+}
+
+.b1
+{
+    background-color: #1e5f74;
+
+    border: 3px solid #133b5c;
+
+    color: #fcdab7;
+    font-size: 18px;
+    font-weight: 900;
+
+    margin-bottom: 10px;
+
+    padding: 10px;
+
+    width: 250px;
+    height: auto;
+
+    transition: 0.5s;
+    cursor: pointer;
+}
+
+.active, .b1:hover
+{
+    border: 3px dashed #133b5c;
+    
+    background-color: #fcdab7;
+    color: #1e5f74;
+}
+
+.b2
+{
+    background-color: #133b5c;
+    color: #fcdab7;
+    font-size: 15px;
+    font-weight: 700;
+
+    border: 3px solid #1e5f74;
+
+    padding: 10px;
+
+    height: auto;
+    width: 250px;
+
+    transition: 0.5s;
+    cursor: pointer;
+}
+
+.active, .b2:hover
+{
+    border: 3px dashed #1e5f74;
+
+    background-color: #fcdab7;
+    color: #133b5c;
+}

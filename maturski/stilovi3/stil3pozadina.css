@@ -1,0 +1,15 @@
+body
+{
+    background-color: #e4fbff;
+    margin-left: 100px;
+    margin-right: 100px;
+}
+
+.pozadina
+{
+    background-color: rgba(184, 181, 255, 0.5);
+
+    margin: 50px;
+
+    padding: 25px;
+}

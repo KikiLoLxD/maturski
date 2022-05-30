@@ -1,0 +1,24 @@
+marquee
+{
+    height: auto;
+    width: 900px;
+  
+    background-color: #edeef7;
+  
+    margin: auto;
+  
+    border: 5px dashed #7868e6;
+}
+
+#naslov
+{
+    text-align: center;
+    margin-top: 100px;
+}
+
+h1
+{
+    color: #b8b5ff;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 50px;
+}

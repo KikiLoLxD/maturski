@@ -1,0 +1,14 @@
+body
+{
+    background-color: #edeef7;
+}
+
+.pozadina
+{
+    background-color: #e4fbff;
+    padding: 75px;
+    margin: auto;
+    display: block;
+    width: 80%;
+    height: 100%;
+}

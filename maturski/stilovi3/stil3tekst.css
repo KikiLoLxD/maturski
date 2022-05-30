@@ -1,0 +1,72 @@
+body
+{
+    font-family: 'Courier New', Courier, monospace;
+}
+
+h1
+{
+    text-align: center;
+    color: #7868e6;
+    font-weight: bold;
+
+    background-color: rgba(237, 238, 247, 0.75);
+
+    padding: 10px;
+
+    width: fit-content;
+
+    display: block;
+    margin: auto;
+    margin-bottom: 50px;
+
+    border-left: 5px solid #edeef7;
+    border-right: 5px solid #edeef7;
+}
+
+p
+{
+    color: #7868e6;
+    text-align: center;
+    font-size: 14pt;
+
+    background-color: rgba(237, 238, 247, 0.75);
+
+    padding: 10px;
+
+    border-left: 5px solid #edeef7;
+    border-right: 5px solid #edeef7;
+
+    margin: auto;
+    display: block;
+
+    width: 50%;
+}
+
+.b3
+{
+    background-color: #edeef7;
+    color: #b8b5ff;
+    font-size: 16px;
+    font-weight: 900;
+
+    border: 3px solid #7868e6;
+
+    margin: auto;
+    margin-bottom: 10px;
+    display: block;
+
+    padding: 10px;
+
+    width: 600px;
+
+    cursor: pointer;
+    transition: 0.5s;
+}
+
+.active, .b3:hover
+{
+    background-color: #b8b5ff;
+    color: #edeef7;
+
+    border: 3px dashed #7868e6;
+}
